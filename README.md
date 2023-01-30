@@ -9,7 +9,7 @@
 
 | [GitHub仓库地址](https://github.com/LiveChatAndApp)       | 说明                                                                                      
 | ------------------------------------------------------------  | --------------------------------------------------------------------------
-| [im-server](https://github.com/LiveChatAndApp/im-server)       |        | 野火社区版IM服务，野火IM的核心服务，处理所有IM相关业务。  |
+| [im-server](https://github.com/LiveChatAndApp/im-server)            | 野火社区版IM服务，野火IM的核心服务，处理所有IM相关业务。  |
 | [app_server](https://github.com/LiveChatAndApp/app_server)       | Demo应用服务，模拟客户的应用服登陆处理逻辑及部分二次开发示例。 |
 | [admin-ui](https://github.com/LiveChatAndApp/admin-ui)       | Demo应用服务，基於vue admin element 的 admin 管理介面。 |
 | [admin-api](https://github.com/LiveChatAndApp/im-admin)       | Demo应用服务，admin 後台 api 開發。 |
