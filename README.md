@@ -13,8 +13,8 @@
 | [app_server](https://github.com/LiveChatAndApp/app_server)       | Demo应用服务，模拟客户的应用服登陆处理逻辑及部分二次开发示例。 |
 | [admin-ui](https://github.com/LiveChatAndApp/admin-ui)       | Demo应用服务，基於vue admin element 的 admin 管理介面。 |
 | [admin-api](https://github.com/LiveChatAndApp/im-admin)       | Demo应用服务，admin 後台 api 開發。 |
-| [android-chat](https://github.com/LiveChatAndApp/android-chat) | 野火IM Android SDK源码和App源码。 |
-| [ios-chat](https://github.com/LiveChatAndApp/ios-chat)             | 野火IM iOS SDK源码和App源码。|
+| [android-chat](https://github.com/LiveChatAndApp/Android) | 野火IM Android SDK源码和App源码。 |
+| [ios-chat](https://github.com/LiveChatAndApp/ios)             | 野火IM iOS SDK源码和App源码。|
 
 
 #### 编译
